@@ -1,0 +1,17 @@
+input {
+    outline: none;
+    font-size: 12px;
+    line-height: 14px;
+    height: 30px;
+    width: 200px;
+    border: 1px solid #5555555c;
+    padding-left: 10px;
+    border-radius: 2px;
+    color: #555555;
+  }
+
+label {
+    font-size: 16px;
+    color: #555555;
+    padding: 7px;
+  }
